@@ -1,0 +1,28 @@
+name: irfaan
+favicon: null
+layout_spectrum: 0.13649481744505465
+typography_spectrum: 0.15470163570716977
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.16323211253620684
+  lightness: 0.9580571104306728
+  saturation: 0.7511043150443584
+  rhythmicContrast: 0.5719153399113566
+purpose: []
